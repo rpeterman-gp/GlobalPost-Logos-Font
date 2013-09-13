@@ -42,10 +42,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.25000001"
-     inkscape:cx="-139.99994"
+     inkscape:cx="-927.99991"
      inkscape:cy="374.8988"
-     inkscape:window-x="1684"
-     inkscape:window-y="56"
+     inkscape:window-x="1658"
+     inkscape:window-y="69"
      inkscape:current-layer="layer3"
      inkscape:window-maximized="0">
     <sodipodi:guide
@@ -76,8 +76,13 @@
        id="perspective3931" />
     <font
        horiz-adv-x="1024"
-       id="font3933"
-       inkscape:label="font 1">
+       id="GlobalPost Logos"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
       <font-face
          units-per-em="1024"
          id="font-face3935"
@@ -522,23 +527,17 @@
          inkscape:connector-curvature="0"
          style="fill-rule:evenodd" />
       <g
-         id="g3134">
-</g>
+         id="g3134" />
       <g
-         id="g3136">
-</g>
+         id="g3136" />
       <g
-         id="g3138">
-</g>
+         id="g3138" />
       <g
-         id="g3140">
-</g>
+         id="g3140" />
       <g
-         id="g3142">
-</g>
+         id="g3142" />
       <g
-         id="g3144">
-</g>
+         id="g3144" />
     </g>
     <path
        inkscape:connector-curvature="0"
@@ -557,27 +556,21 @@
        id="path3203" />
     <g
        id="g3205"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
     <g
        id="g3207"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
     <g
        id="g3209"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
     <g
        id="g3211"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
     <g
        id="g3213"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
     <g
        id="g3215"
-       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)">
-</g>
+       transform="matrix(9.2594398,0,0,9.2594398,-2324.9162,-3073.7924)" />
   </g>
 </svg>
